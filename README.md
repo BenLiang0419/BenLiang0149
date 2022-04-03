@@ -33,7 +33,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenLiang0419&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenLiang0419&layout=compact" />
+</a>
 
 <br />
 
