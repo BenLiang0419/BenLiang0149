@@ -13,14 +13,14 @@
 
 <div>
   <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-  <span align="left">正在一个国企工作，每日学习前端知识</span>
-  <span align="left">最近小目标是 Vue3源码 和 TypeScript体操</span>
+  <p align="left">正在一个国企工作，每日学习前端知识</p>
+  <p align="left">最近小目标是 Vue3源码 和 TypeScript体操</p>
 </div>
 
 
 <br />
 
-<h2>🚀 Languages and Tools I Use</h2>
+## 🚀 Languages and Tools I Use
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
