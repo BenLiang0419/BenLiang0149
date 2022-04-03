@@ -11,12 +11,14 @@
 
 <br />
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<div>
+  <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+  <span align="left">正在一个国企工作，每日学习前端知识</span>
+  <span align="left">最近小目标是 Vue3源码 和 TypeScript体操</span>
+</div>
 
-正在一个国企工作，每日学习前端知识
 
-最近小目标是 Vue3源码 和 TypeScript体操
-
+<br />
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p align="left">
