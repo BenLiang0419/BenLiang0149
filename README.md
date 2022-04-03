@@ -10,11 +10,11 @@
 
 <br />
 
-## 🤦🏻‍♂️ Learner
+## 🤦🏻‍♂️ Learner~~~~~ 👨‍⚖️
 <div>
   <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-  <p align="left">正在一个国企工作，每日学习前端知识</p>
-  <p align="left">最近小目标是 Vue3源码 和 TypeScript体操</p>
+  <p align="left"> 🌸 Working in Guangzhou，Learning and recording every day </p>
+  <p align="left"> 🌸 Recent small targets: Vue Source Code, Vite, TypeScript Challenges</p>
 </div>
 
 
