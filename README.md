@@ -10,6 +10,7 @@
 
 <br />
 
+## 🤦🏻‍♂️ Learner
 <div>
   <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
   <p align="left">正在一个国企工作，每日学习前端知识</p>
@@ -36,13 +37,15 @@
 
 <br />
 
+## 🧡 Most Used
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenLiang0419&layout=compact" />
 </a>
 
 <br />
 
-<h2>👨‍💻 Github Stats</h2>
+## 👨‍💻 Github Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BenLiang0419&hide=prs&count_private=true&show_icons=true&theme=dracula" />
