@@ -2,8 +2,6 @@
 
 <br />
 
-![](https://github.com/getActivity/EmojiPackage/blob/master/%E7%A8%8B%E5%BA%8F%E5%91%98/%E4%B8%8D%E7%9F%A5%E9%81%93%EF%BC%8C%E4%BB%A3%E7%A0%81%E9%83%BD%E6%98%AF%E7%99%BE%E5%BA%A6%E6%8A%84%E6%9D%A5%E7%9A%84%EF%BC%8C%E5%A4%8D%E5%88%B6%E8%BF%87%E6%9D%A5%E7%9A%84%E6%80%8E%E4%B9%88%E4%BC%9A%E9%94%99%E8%AF%AF.jpg)
-
 <div>
   <a href="mailto:i@blackcater.dev">
     <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
