@@ -3,7 +3,7 @@
 <br />
 
 <div>
-  <a href="mailto:i@blackcater.dev">
+  <a href="mailto:jiashengliang_0419@163.com">
     <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
   </a>
 </div>
